@@ -1,0 +1,2 @@
+# PicoSpeedometer
+PicoSpeedometer是一款基于RP2040的自行车速度和里程记录表，作为我的本科毕业设计。
